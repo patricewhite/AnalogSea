@@ -1,5 +1,5 @@
 body{
-  background-color: #1DACD6;
+  background-color: #0893cc;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -16,9 +16,9 @@ img {
 
 .form-box {
 width: 320px;
-padding-left: 40px;
+padding-left: 800px;
 padding-right: 40px;
-height: 400px;
+height: 700px;
 background-color:white;
 margin-left: auto;
 margin-right: auto;
@@ -27,6 +27,7 @@ margin-right: auto;
 h1 {
   text-align: center;
   padding-top: 20px;
+  margin-bottom: 20px;
 }
 
 .form-info label {
@@ -48,7 +49,7 @@ margin-bottom: 10px;
   width: 320px;
   padding: 15px;
   border: 2px solid green;
-  margin-bottom: 20px;
+  margin-bottom: -5px;
   background-color: green;
   color: white;
   font-size: 16px;
@@ -59,7 +60,7 @@ margin-bottom: 10px;
   background-color:#006A4E
 }
 
-.form-info a {
+.form-info p a {
   color: grey;
   margin-left: 100px;
 }
